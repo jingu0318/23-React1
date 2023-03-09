@@ -1,15 +1,14 @@
 # 23-React1
-# 수업 연습용 레포지트리 입니다.
+# 3월 9일 리액트
 ---
-1.하루 배운것을 정리
+1.vscode에서git config --global user.email "you@example.com" , git config --global user.name "Your Name" 통해 계정 연결.
 
+2.리액트를 위한 레퍼지토리 만들기.
 
-2.다음에 읽어보면서 복습
+3.깃허브 레퍼지토리와 vscode를 연결. 
 
+4.vscode에서 commit과 push 하는 법 배우고 익히기.
 
-3.최종적으로 훑어 보면서 리마인드
-
-
-4.리액트 내것으로 만들기
+5.
 
 
